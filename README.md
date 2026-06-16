@@ -1,203 +1,180 @@
-# Tarun Kumar
+# Hi, I'm Tarun Kumar Angalla 👋
 
-Senior Java Developer and AI-Driven Full Stack Engineer with 10+ years of experience building scalable backend services, full stack enterprise applications, REST APIs, microservices, database-driven workflows, secure authentication flows, cloud-ready deployments, and AI-assisted engineering solutions.
+## Java Engineer | AI-Driven Full Stack Developer | AI Product Builder
 
-I work across Java, Spring Boot, ReactJS, Python utilities, SQL/NoSQL databases, CI/CD, Docker, Kubernetes, cloud platforms, and AI-driven development workflows. My recent work focuses on combining strong enterprise software engineering with AI-assisted productivity, intelligent workflow automation, secure APIs, and production-ready systems.
+I am a Java Engineer and AI-driven Full Stack Developer with **5+ years of experience** building backend systems, scalable APIs, Spring Boot microservices, full-stack applications, AI-powered product features, retrieval workflows, recommendation systems, and production-ready software solutions.
 
-## About Me
+I enjoy building real products, not just demos. My work focuses on combining strong software engineering fundamentals with practical AI usage to build faster, solve problems creatively, and deliver reliable applications.
 
-I am a Senior Java Developer and AI-Focused Full Stack Engineer with hands-on experience in:
+---
 
-- Building scalable Java backend services using Java 11/17, Spring Boot, Microservices, REST APIs, Spring MVC, Spring Data JPA, Hibernate, DTOs, validators, repositories, service layers, and centralized exception handling
-- Developing full stack applications using ReactJS, Angular, JavaScript, TypeScript, HTML5, CSS3, reusable UI components, dashboards, workflow screens, and API-driven frontend integrations
-- Designing secure APIs with OAuth2/JWT-style token handling, RBAC, input validation, role-aware access, controlled exception responses, safe logging, and sensitive-data masking
-- Working with SQL Server, Oracle, PostgreSQL, MySQL, MongoDB, DynamoDB, and Redis for transactional workflows, audit tracking, reporting, indexing, query optimization, and data integrity
-- Supporting cloud-ready applications using AWS/Azure-aligned patterns, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Maven, Gradle, CI/CD pipelines, deployment validation, monitoring, and rollback support
-- Using AI development tools such as Cursor, Claude Code, GitHub Copilot, ChatGPT, Windsurf, and Codex-style workflows to accelerate Java service logic, React component creation, SQL analysis, unit test generation, refactoring, debugging, and documentation
-- Collaborating with product owners, QA engineers, architects, DevOps teams, DBAs, security teams, offshore developers, and business stakeholders in Agile/Scrum environments
+## What I Work On
 
-My main focus is building secure, scalable, production-ready software systems while using AI tools responsibly to improve speed, quality, debugging, documentation, and delivery.
+- Java backend engineering with Spring Boot, REST APIs, Microservices, Spring Data JPA, and Hibernate
+- Full-stack development using React, Next.js, TypeScript, JavaScript, Node.js, and modern frontend tooling
+- AI-powered product development using LLMs, prompt engineering, RAG, embeddings, and vector search
+- Secure backend systems using JWT, OAuth2, RBAC, input validation, and role-based access
+- Database-driven applications using PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, and Snowflake
+- Cloud and DevOps workflows using AWS, Docker, Kubernetes, GitHub Actions, Jenkins, and CI/CD
+- AI-assisted development using GitHub Copilot, ChatGPT, Cursor, Claude Code, Windsurf, and Codex-style workflows
 
-## Core Focus Areas
-
-### Java Backend Engineering
-
-- Java 8/11/17 development
-- Spring Boot microservices
-- REST API design and integration
-- Spring MVC, Spring Data JPA, Hibernate
-- DTOs, validators, mappers, repositories, service layers
-- Centralized exception handling
-- API documentation and request/response contracts
-- Secure authentication and authorization
-- Service orchestration and integration clients
-- Production troubleshooting and performance tuning
-
-### Full Stack Development
-
-- ReactJS and Angular application development
-- JavaScript and TypeScript
-- Reusable UI components
-- Dashboards and workflow screens
-- Data tables, search filters, pagination, sorting, and form validation
-- API-driven frontend integration
-- Loading states, error banners, modals, status indicators, and role-based UI behavior
-- Responsive and user-friendly enterprise interfaces
-
-### AI-Driven Engineering
-
-- AI-assisted Java backend development
-- AI-assisted React component generation
-- Prompt engineering for code generation and debugging
-- AI-assisted SQL review and optimization
-- AI-assisted test case generation
-- AI-assisted documentation and PR summaries
-- Responsible AI usage with manual validation
-- Code quality, security, and business-logic review before merge
-
-### Cloud, DevOps, and Production Support
-
-- Docker and Kubernetes
-- Jenkins and GitHub Actions
-- GitLab CI-style pipelines
-- Maven and Gradle builds
-- CI/CD automation
-- Deployment validation and smoke testing
-- Rollback readiness
-- Structured logging and correlation IDs
-- Splunk, Dynatrace-style dashboards, CloudWatch-style logs, Azure Monitor, and Application Insights-style observability
-
-### Database and Integration Engineering
-
-- SQL Server, Oracle, PostgreSQL, MySQL
-- MongoDB, DynamoDB, Redis
-- Stored procedures, joins, indexes, views, lookup tables
-- Audit-history queries and reconciliation queries
-- Duplicate-check logic and reporting extracts
-- Query tuning and repository optimization
-- REST API integrations
-- Asynchronous job triggers
-- Queue-style processing
-- Retry handling and downstream service coordination
-
-## Tech Stack
-
-Languages: Java 8/11/17, JavaScript, TypeScript, SQL, PL/SQL, Python, JSON, XML  
-
-Backend: Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Microservices, J2EE, API Gateway patterns, service orchestration  
-
-Frontend: ReactJS, Angular, JavaScript, TypeScript, HTML5, CSS3, reusable UI components, responsive design, dashboards  
-
-Databases: PostgreSQL, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, Redis, relational modeling, NoSQL modeling, indexing, query tuning  
-
-Security: JWT, OAuth2, RBAC, Spring Security concepts, secure APIs, input validation, parameterized queries, safe logging, data masking  
-
-AI Tools: Cursor, Claude Code, GitHub Copilot, ChatGPT, Windsurf, Codex-style workflows, prompt engineering, AI-assisted testing, AI-assisted debugging  
-
-Cloud / DevOps: AWS, Azure, Docker, Kubernetes, Jenkins, GitHub Actions, GitLab CI, Maven, Gradle, CI/CD pipelines, release automation  
-
-Testing: JUnit, Mockito, Postman, API testing, integration testing, regression testing, unit testing, smoke testing, test case generation  
-
-Messaging / Async: Kafka, AWS MSK, SNS/SQS concepts, event-driven services, async processing, retry handling, queue-based workflows  
-
-Tools / Practices: Git, Jira, Agile/Scrum, code reviews, technical documentation, production support, troubleshooting, performance tuning  
+---
 
 ## AI-Driven Engineering Workflow
 
-I use AI tools as a practical engineering co-pilot to move faster from requirements to production-ready implementation while still maintaining code quality, security, and enterprise standards.
+I use AI tools as practical engineering co-pilots to improve development speed without compromising code quality.
 
-### How I Use AI Tools
+### GitHub Copilot Usage
 
-- Generate initial Java service logic, DTOs, validators, controller methods, and repository patterns
-- Create ReactJS component structures, table views, modal dialogs, forms, validation states, and error-handling patterns
-- Break down business requirements into technical tasks, API changes, database changes, test scenarios, and acceptance criteria
-- Generate JUnit, Mockito, and API test case skeletons for critical service workflows
-- Review SQL queries, identify missing filters, improve joins, and spot possible performance issues
-- Analyze stack traces, API errors, logs, failed builds, and deployment issues
-- Draft PR summaries, technical documentation, release notes, and troubleshooting guides
-- Refactor duplicate code, simplify service-layer methods, and improve exception handling
+I use **GitHub Copilot** in my daily workflow to accelerate development across Java backend, React frontend, testing, debugging, and documentation.
 
-### Responsible AI Usage
+I use Copilot to:
 
-- Manually review all generated code before committing
-- Validate business logic against requirements and acceptance criteria
-- Check security risks such as unsafe logging, missing validation, and excessive data exposure
-- Confirm SQL correctness and database impact
-- Add and run tests before pull request submission
-- Ensure code follows team standards, enterprise patterns, and maintainability guidelines
+- Generate initial Java Spring Boot code structures such as REST controllers, DTOs, validators, service methods, repository logic, and utility classes
+- Create React and TypeScript component patterns for forms, dashboards, tables, modals, validation states, and reusable UI sections
+- Generate JUnit and Mockito test skeletons for service-layer logic, API validations, edge cases, and regression scenarios
+- Refactor repeated code, simplify complex methods, improve exception handling, and reduce boilerplate
+- Draft technical notes, PR descriptions, implementation steps, and troubleshooting documentation
+
+I do not blindly accept AI-generated code. I review every suggestion for:
+
+- Business logic correctness
+- Security risks
+- Performance impact
+- Maintainability
+- Test coverage
+- Coding standards
+- Real production behavior
+
+For me, Copilot is a speed multiplier, not a replacement for engineering judgment.
+
+---
+
+## Tech Stack
+
+### Backend
+Java, Spring Boot, Spring MVC, Spring Data JPA, Hibernate, REST APIs, Microservices, Node.js, Express.js, FastAPI
+
+### Frontend
+React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Vite
+
+### AI / ML
+OpenAI API, Gemini API, LangChain, LangGraph, RAG, Embeddings, Vector Search, Pinecone, FAISS, ChromaDB, Prompt Engineering, MLflow, Scikit-learn, XGBoost, TensorFlow, PyTorch
+
+### Databases
+PostgreSQL, MySQL, MongoDB, Oracle, SQL Server, Snowflake, Firebase
+
+### Cloud / DevOps
+AWS S3, EC2, Lambda, SageMaker, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform, CI/CD, Linux
+
+### Security
+JWT, OAuth2, RBAC, secure API design, input validation, authorization checks, safe logging, sensitive-data protection
+
+---
 
 ## Featured Projects
 
 ## Anvikshiki AI
 
-Tech Stack: React, Next.js, TypeScript, PostgreSQL, Prisma, Zod, OpenAI API, Gemini API, AI provider abstraction, structured outputs
+**AI-Powered Personal Coaching and Behavioral Intelligence Platform**
 
-Anvikshiki AI is an AI-powered personal coaching and behavioral intelligence platform designed to help users improve habits, routines, productivity, reflections, and long-term personal growth.
+**Tech Stack:** Next.js, React, TypeScript, PostgreSQL, Prisma, Zod, OpenAI API, Gemini API, Tailwind CSS
 
-The goal of this project is to create a personal AI system that understands user goals, daily patterns, repeated behavior loops, distractions, time usage, and improvement areas. Instead of giving generic advice, the system generates personalized recommendations based on structured user data and AI analysis.
+Anvikshiki AI is an AI-powered personal coaching platform designed to help users improve goals, habits, routines, reflections, productivity, and long-term personal growth.
 
-### What the Project Does
+### Key Features
 
-- Tracks goals, habits, routines, reflections, and productivity patterns
-- Uses LLMs to analyze user behavior and generate personalized coaching suggestions
-- Produces structured daily recommendations for habit improvement and routine planning
-- Helps identify time-waste patterns, consistency gaps, and improvement opportunities
-- Uses structured JSON outputs to make AI responses easier to validate and consume in the application
-- Supports multiple AI providers through an abstraction layer for OpenAI and Gemini
-- Stores user workflows in PostgreSQL using Prisma
-- Uses Zod validation to keep user inputs and AI outputs structured
+- Goal tracking and habit management
+- Reflection logging and daily personal insights
+- AI-generated productivity recommendations
+- Routine improvement and time-waste detection
+- Structured JSON outputs from LLMs
+- OpenAI and Gemini provider abstraction
+- PostgreSQL-backed user memory
+- Zod-based validation for safer data handling
 
 ### Engineering Highlights
 
-- Designed modular frontend pages using React and Next.js
-- Built PostgreSQL data models for goals, habits, routines, reflections, and AI-generated insights
-- Created prompt workflows for coaching, routine improvement, habit analysis, and productivity recommendations
+- Built modular frontend screens using React and Next.js
+- Designed PostgreSQL models for goals, habits, routines, reflections, and AI insights
+- Created prompt workflows for coaching, productivity analysis, routine improvement, and personalized recommendations
 - Implemented AI provider abstraction to support multiple LLM providers
-- Focused on privacy-aware recommendations and long-term user memory
-- Used AI tools to accelerate prompt iteration, frontend development, data modeling, documentation, and debugging
-- Designed the system as a usable product rather than a simple AI demo
+- Used AI tools to accelerate prompt iteration, frontend development, backend planning, debugging, and documentation
+- Focused on building a usable AI product instead of a simple chatbot demo
+
+---
+
+## Career Munzil
+
+**AI-Assisted Career Intelligence Platform**
+
+**Tech Stack:** React, Node.js, REST APIs, PostgreSQL/MongoDB concepts, AI-assisted recommendation workflows
+
+Career Munzil is a career intelligence platform designed to help users understand their profile strength, identify gaps, match with better roles, and receive AI-assisted career improvement recommendations.
+
+### Key Features
+
+- Resume analysis
+- Job description matching
+- Skill-gap detection
+- Job-fit scoring
+- Career roadmap generation
+- Project recommendations
+- Employer-candidate matching logic
+- AI-assisted profile improvement suggestions
+
+### Engineering Highlights
+
+- Designed backend workflows for profile intake, resume parsing, job description processing, and recommendation generation
+- Built frontend flows for profile entry, job-fit results, roadmap views, and project suggestions
+- Created AI prompts for resume feedback, career learning paths, project ideas, and role readiness insights
+- Designed matching logic using skills, experience, projects, target roles, and gap analysis
+- Focused on practical career decision support instead of generic resume scoring
+
+---
 
 ## Tracktive AI
 
-Tech Stack: React, TypeScript, Gemini API, task-processing workflows, calendar-planning logic, data visualization
+**AI Productivity and Daily Planning Application**
 
-Tracktive AI is an AI-powered productivity application that converts calendar events, tasks, and daily priorities into structured daily plans and focused work sessions.
+**Tech Stack:** React, TypeScript, Gemini API, task-processing workflows, calendar-planning logic, data visualization
 
-The project is designed to reduce planning overload by helping users decide what to work on, when to work on it, and how to structure their day realistically.
+Tracktive AI helps users convert tasks, calendar items, and priorities into realistic daily plans and focused work sessions.
 
-### What the Project Does
+### Key Features
 
-- Processes calendar and task data to create structured daily schedules
-- Uses AI to recommend focus blocks, task priority, and realistic planning sequences
-- Generates productivity insights from daily work patterns
-- Helps users understand where time is being spent
-- Provides dashboard-style views for planning and productivity analysis
-- Converts unstructured task lists into usable daily execution plans
+- Calendar and task processing
+- AI-generated daily plans
+- Focus block recommendations
+- Priority ordering
+- Productivity insights
+- Dashboard-style planning views
 
 ### Engineering Highlights
 
-- Designed AI workflows for task prioritization and schedule generation
-- Built frontend components for task planning, calendar views, and productivity insights
+- Designed AI workflows for task prioritization and daily planning
+- Built frontend components for planning screens, task views, and productivity insights
 - Used Gemini-based prompt workflows for structured daily plan generation
-- Designed analytics-style outputs to make AI recommendations understandable
-- Used AI-assisted development for UI planning, prompt testing, debugging, and documentation
-- Focused on real daily usage instead of generic productivity suggestions
+- Focused on reducing planning overload and converting unstructured tasks into execution-ready plans
+
+---
 
 ## Smart School Operations Analyzer / Smart School OS
 
-Tech Stack: Flutter, REST API design, PostgreSQL concepts, Redis queue concepts, role-based dashboards, AI workflow design
+**AI-Powered School Operations Platform**
 
-Smart School OS is a school management and operations platform designed to support administrators, teachers, parents, and students through role-based workflows.
+**Tech Stack:** Flutter, REST API design, PostgreSQL concepts, Redis queue concepts, AI workflow design, role-based dashboards
 
-A major AI-focused extension is the AI-Powered School Operations Analyzer, which helps school leadership answer operational questions about attendance, fee collections, student performance, and at-risk students.
+Smart School OS is a school management platform concept with an AI-powered operations analyzer for attendance, fee collection, student performance, and risk detection.
 
-### What the Project Does
+### Key Features
 
-- Supports role-based dashboards for Admin, Teacher, Parent, and Student users
-- Includes attendance, fee billing, student profiles, notifications, academic records, and operational workflows
-- Provides student profile views with attendance summaries, fee status, academic history, documents, and readiness indicators
-- Adds an AI assistant that answers school operations questions using structured school data
-- Helps identify students at risk due to low attendance, poor academic performance, unpaid fees, or repeated operational issues
+- Admin, Teacher, Parent, and Student dashboards
+- Attendance workflows
+- Fee billing workflows
+- Student profile hub
+- Notifications and academic records
+- AI assistant for school operations analysis
 
 ### AI Assistant Capabilities
 
@@ -217,100 +194,54 @@ The AI assistant can answer questions such as:
 - Created prompt designs for structured and safe school-data responses
 - Designed role-based access so users only see information allowed by their role
 - Planned Redis queue-based processing for background jobs, reminders, reports, and analytics
-- Focused on practical school operations use cases rather than generic chatbot behavior
 
-## Career Munzil
-
-Tech Stack: React, Node.js, REST APIs, PostgreSQL/MongoDB concepts, AI-assisted recommendation workflows
-
-Career Munzil is a career intelligence platform concept designed to help users understand career direction, improve their profile, and match themselves with better roles, skills, and project paths.
-
-The project uses AI to analyze resumes, job descriptions, skill gaps, career goals, and project history to generate useful career recommendations.
-
-### What the Project Does
-
-- Helps users understand current profile strength
-- Analyzes resumes and job descriptions to identify gaps
-- Recommends skills, projects, and learning paths based on target roles
-- Supports employer-candidate matching logic
-- Provides AI-assisted career suggestions and improvement plans
-- Helps users understand which projects to build to become stronger candidates
-
-### Engineering Highlights
-
-- Designed backend API workflows for profile intake, resume parsing, and recommendation generation
-- Built frontend flows for user profile entry, job-fit results, roadmap display, and project suggestions
-- Designed AI prompts for resume analysis, skill-gap detection, and project recommendations
-- Planned matching logic between candidate profiles and job descriptions
-- Used AI tools for prompt improvement, UI generation, API planning, and workflow documentation
-- Focused on practical career decision support rather than generic resume scoring
-
-## Visitor Pass Distribution System
-
-Tech Stack: React, Node.js / Java backend concepts, MongoDB, REST APIs, JWT, RBAC, AWS deployment concepts
-
-The Visitor Pass Distribution System is an application built to manage visitor requests, approvals, pass generation, and secure visitor tracking workflows.
-
-### What the Project Does
-
-- Allows users to submit visitor pass requests
-- Supports approval workflows for administrators and authorized staff
-- Tracks visitor information, request status, and approval history
-- Provides role-based access for different user types
-- Helps reduce manual paperwork and improve organizational security
-- Supports dashboard-style monitoring of pending, approved, and rejected requests
-
-### Engineering Highlights
-
-- Designed REST API workflows for visitor registration, approvals, pass generation, and admin actions
-- Implemented JWT and RBAC concepts for secure access control
-- Built dashboard-style UI screens for request tracking and approval management
-- Used database-backed workflows to store visitor information, status updates, and audit details
-- Focused on reliability, access control, and workflow simplification
-- Applied secure coding concepts such as validation, role-aware access, and controlled data exposure
+---
 
 ## Water Quality Monitoring System Using Radar and CNN
 
-Tech Stack: Python, TensorFlow, Keras, CNN, NumPy, Pandas, OpenCV, Radar Imaging
+**Machine Learning / Computer Vision Project**
 
-This project focuses on detecting water contamination patterns using radar imagery and electrochemical sensor data. It combines machine learning, computer vision, and sensor-based analysis to support environmental monitoring workflows.
+**Tech Stack:** Python, TensorFlow, Keras, CNN, NumPy, Pandas, OpenCV, Radar Imaging
 
-### What the Project Does
+This project detects water contamination patterns using radar imagery and electrochemical sensor data.
 
-- Uses radar imagery and sensor readings to analyze water quality
-- Detects contamination patterns in saltwater and chalk-infused water samples
-- Applies CNN models to identify signal and image-based contamination behavior
-- Uses preprocessing pipelines to normalize radar and potentiostat datasets
-- Supports environmental assessment by combining visual and sensor-based data
-
-### Engineering Highlights
+### Key Highlights
 
 - Built CNN models using TensorFlow and Keras
-- Used Pandas and NumPy for data cleaning and preprocessing
-- Used OpenCV for image normalization and feature preparation
+- Used radar imagery and sensor readings to analyze water quality
+- Designed preprocessing pipelines using Pandas and OpenCV
 - Achieved RMSE scores of 0.133 for saltwater samples and 0.11 for chalk-infused water
 - Validated model behavior against laboratory observations
 - Explored multimodal AI by combining sensor data and radar image data
 
-## Badri Digital Strategies Website
+---
 
-Tech Stack: React, JavaScript, reusable frontend components, AI chatbot integration
+## Visitor Pass Distribution System
 
-Badri Digital Strategies is a modern business website project built with reusable frontend components, polished layouts, clean user flows, and an integrated AI chatbot.
+**Secure Workflow Management Application**
 
-### What the Project Does
+**Tech Stack:** React, Node.js / Java backend concepts, MongoDB, REST APIs, JWT, RBAC, AWS deployment concepts
 
-- Presents business services through a clean and modern website interface
-- Uses reusable components for sections, cards, contact areas, and service pages
-- Includes an AI chatbot to support user interaction and basic business inquiries
-- Focuses on responsive design, clean navigation, and professional branding
+A visitor pass management system designed to manage secure visitor requests, approvals, pass generation, and admin workflows.
+
+### Key Features
+
+- Visitor pass request submission
+- Approval workflows
+- Admin dashboard
+- Request status tracking
+- JWT-based authentication
+- Role-based access control
+- Audit-style workflow tracking
 
 ### Engineering Highlights
 
-- Built reusable frontend components for faster page development
-- Designed responsive UI sections for business presentation
-- Integrated chatbot functionality for interactive support
-- Focused on clean user experience and professional layout structure
+- Designed REST API workflows for visitor registration, approvals, pass generation, admin actions, search, filtering, and audit tracking
+- Implemented JWT and RBAC concepts for secure access control
+- Built dashboard-style UI screens for request tracking and approval management
+- Used database-backed workflows to store visitor information, status updates, approval history, and audit details
+
+---
 
 ## Certifications
 
@@ -319,21 +250,38 @@ Badri Digital Strategies is a modern business website project built with reusabl
 - Broadridge India Innovation Hackathon Winner for AI-enabled workflow automation systems
 - HackerRank Certification in Full Stack Development with React.js and Node.js in AI
 
+---
+
 ## What I’m Building Toward
 
-I am especially interested in building AI-assisted engineering products, Java backend systems, full stack platforms, and intelligent software systems that combine scalable engineering with practical AI usage.
+I am focused on building software where AI is used practically inside real products.
 
-My focus areas include:
+My current interests include:
 
 - Java backend engineering
 - Spring Boot microservices
 - AI-assisted software development
-- Backend and platform engineering
-- Full stack product development
+- Full-stack product development
 - Applied LLM systems
 - Retrieval-Augmented Generation
 - Recommendation systems
 - Search, retrieval, and ranking workflows
-- Intelligent workflow automation
 - Secure API development
-- Production-ready enterprise applications
+- Productivity tools
+- Career intelligence platforms
+- Intelligent workflow automation
+
+---
+
+## Current Direction
+
+I am actively building and improving AI-powered products that combine:
+
+- Strong backend architecture
+- Clean user experience
+- Practical AI workflows
+- Secure APIs
+- Structured data
+- Real user impact
+
+I believe the best engineers today are not only writing code, but also using AI tools responsibly to build faster, think better, and deliver more meaningful products.
